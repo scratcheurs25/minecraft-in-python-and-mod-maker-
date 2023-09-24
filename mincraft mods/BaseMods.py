@@ -1,5 +1,5 @@
 import LibsMod.BLocks as Blocks
-import LibsMod.customeName as Name
+import LibsMod.CustomeName as Name
 import LibsMod.PlayerCustom as Player
 
 Blocks.makeBLocksInWord(Blocks.grass(0,100))
