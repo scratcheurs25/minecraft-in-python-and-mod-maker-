@@ -1,6 +1,5 @@
 import game.block as ModBlock
 import game.main as Game
-import os as window
 
 
 def makeBLocksInWord(block:ModBlock.block):
