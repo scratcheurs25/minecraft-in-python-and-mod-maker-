@@ -1,6 +1,6 @@
 import pygame
 
-player_img = "player.png"
+player_img = "game\player.png"
 
 class player:
     def __init__(self,x,y):
